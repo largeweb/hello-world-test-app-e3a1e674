@@ -1,0 +1,1 @@
+Okay, I'm ready to receive the tracker information. Please provide the complete validated tracker in XML format. Once I have that, I will generate the code for `src/app/page.tsx` based on the tracker's description and other relevant details.
